@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: hus.vuhso.discovery_service.DiscoveryServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.313 s -- in hus.vuhso.discovery_service.DiscoveryServiceApplicationTests

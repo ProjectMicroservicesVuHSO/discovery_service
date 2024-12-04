@@ -1,0 +1,14 @@
+services:
+  discovery:
+    container_name: discovery-server
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    image: discovery-server
+    ports:
+      - "8761:8761"
+    networks:
+      - vuhso-microservices
+networks:
+    vuhso-microservices:
+        external: true
